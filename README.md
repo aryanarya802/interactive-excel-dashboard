@@ -1,24 +1,44 @@
-# Excel Interactive Dashboards
+# 📊 Interactive Excel Data Dashboards
 
-I created two interactive Excel dashboards from scratch by using Pivot tables, Pivot charts and Slicers to apply filters. Data is about a hypothetical company’s sales and customer success performance. 
+This project showcases two interactive Excel dashboards built from scratch using Pivot Tables, Pivot Charts, and Slicers. The data visualizations highlight key metrics related to a hypothetical company’s Sales and Customer Success performance.
 
-Datasets can be downloaded via the links below:
+---
 
-</br>
+## 📈 Sales Performance Dashboard
 
-## Sales Performance Dashboard
+The Sales Performance Dashboard provides a comprehensive view of sales trends and KPIs from 2020–2021. It includes:
 
-This sales performance dashboard gives you a detailed overview of the organization’s Key Performance Indicators at a glance. It provides a line graph showing the progress of sales by month for years 2020 -2021. It also shows charts on Sales by Region, Sales by Employee, Item Share and Customer Revenue per customer.
+- Line chart showing monthly sales performance
+- Regional and employee-wise sales distribution
+- Item-wise contribution (Item Share)
+- Customer-wise revenue insights
 
+Interactive slicers allow for dynamic filtering based on time period, region, and more — making it easy to drill down into specific segments.
 
-</br>
+---
 
+## 🤝 Customer Success Dashboard
 
-## Customer Success Dashboard
+The Customer Success Dashboard tracks operational health and client satisfaction. Key features include:
 
-A Customer Success dashboard keeps track of a company’s health in connection to its product and users. The dashboard below focuses on Customer Satisfaction scores, Customer Acquisition and Target rates for both on-time and late deliveries.
+- Customer Satisfaction Scores
+- On-time vs Late Deliveries
+- Customer Acquisition Performance
+- State and Product-wise filters
 
-Similar to the Sales Performance dashboard above, the use of slicers allows you to filter the dataset in order to better analyze the data. You can select to filter by specific Year, Product, Customer Acquisition type and State.
+Slicers make it easy to customize views based on product, year, customer type, and geography — offering actionable insights for retention and service quality.
 
-</br>
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Slicers for interactivity  
+- Conditional Formatting  
+- Clean, user-friendly design
+
+---
+
+📌 **Note:** This project was created for portfolio and learning purposes using sample business data.
 
